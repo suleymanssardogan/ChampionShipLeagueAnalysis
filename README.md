@@ -1,5 +1,6 @@
 ## Championship League Veri Analizi Projesi
-![Açıklama Metni](https://www.google.com/imgres?q=championship%20logo&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2F0%2F0f%2FEFL_Championship_Logo.svg%2F800px-EFL_Championship_Logo.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FEFL_Championship&docid=w7Nfvv-i6GiKxM&tbnid=xxGYdbpOTROpOM&vet=12ahUKEwiThe6AlYWMAxWqSPEDHYFpCKUQM3oECBYQAA..i&w=800&h=1044&hcb=2&ved=2ahUKEwiThe6AlYWMAxWqSPEDHYFpCKUQM3oECBYQAA)
+![championshipleaguelogo](https://github.com/user-attachments/assets/f1172a66-bd99-4d9c-9e1a-577280d61667)
+
 
 Bu proje, Championship League futbol maçlarına ait veri setini incelemek ve analiz etmek amacıyla oluşturulmuştur. 
 Veri seti, maç sonuçları, takım performansları, gol istatistikleri,şut istatistikleri,sarı ve kırmızı kart istatistikleri,hakem istetikleri ve daha birçok bilgi içermektedir. 
