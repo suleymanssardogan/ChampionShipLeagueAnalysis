@@ -68,28 +68,42 @@ Veri seti, aşağıdaki 25 farklı değişkeni içermektedir:
 🚀 Kullanılan Teknolojiler
 
 Python 🐍
+
 Pandas 📊 (Veri işleme ve analiz)
+
 NumPy 🔢 (Matematiksel işlemler)
+
 Matplotlib 📈 & Seaborn 🎨 (Veri görselleştirme)
+
 SciPy 🧪 (İstatistiksel analizler)
+
 Scikit-learn 🤖 (Makine öğrenmesi tahminleri)
 
 
 🔍 Yapılan Analizler
 
 .Genel Lig Performans Analizi
+
 .Takım Bazında İstatistikler
+
 .Hakem Kararlarının Etkisi
+
 .Şut ve Gol Verimliliği
+
 .Kart ve Faul Analizi
+
 .Makine Öğrenmesi ile Maç Tahmini(Yapılacak)
 
 📊 Öne Çıkan Bulgular
 
 .Hakemlerin verdiği sarı ve kırmızı kartlar ile maç sonucu arasındaki ilişki analiz edildi.
+
 .Belirli hakemlerin daha fazla kart gösterme eğiliminde olduğu gözlemlendi.
+
 .Bazı takımların iç saha ve deplasman performansları arasında belirgin farklar bulundu.
+
 .Şut verimliliği yüksek olan takımların genellikle daha yüksek puan aldığı tespit edildi.
+
 .Takımların geçmiş verilerine dayanarak maç sonuçlarını tahmin eden bir model oluşturuldu
 
 
